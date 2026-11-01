@@ -1,0 +1,1444 @@
+[
+  {
+    "id": "1633:23663",
+    "name": "Splash / 2",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 639,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:112478",
+    "childCount": 1,
+    "texts": []
+  },
+  {
+    "id": "1827:32328",
+    "name": "Splash / 1",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 171,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:112478",
+    "childCount": 1,
+    "texts": []
+  },
+  {
+    "id": "1827:32300",
+    "name": "Onboarding / 01",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 1443,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:112481",
+    "childCount": 4,
+    "texts": [
+      "Get quality groceries picked with care",
+      "Shoppers pick the highest quality items. \nThat’s our 100% quality promise",
+      "Next"
+    ]
+  },
+  {
+    "id": "1827:32309",
+    "name": "Onboarding / 02",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 1875,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:112481",
+    "childCount": 4,
+    "texts": [
+      "Shop from \nyour favorites stores",
+      "Your favorites are on Instacart along with 300 more across North America",
+      "Next"
+    ]
+  },
+  {
+    "id": "1827:32318",
+    "name": "Onboarding / 03",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 2307,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:112481",
+    "childCount": 4,
+    "texts": [
+      "Shop more deals,\nsave more with us",
+      "Save with exclusive deals, coupons\nand more with no membership required!",
+      "Let’s Start",
+      "Not looking for groceries? Become a shopper"
+    ]
+  },
+  {
+    "id": "1827:32689",
+    "name": "Login /Enter phone number",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 3648,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113247",
+    "childCount": 5,
+    "texts": [
+      "Or",
+      "By logging in, you agree to our",
+      "Terms of Service",
+      "&",
+      "Privacy Policy",
+      "Log in with your phone number",
+      "Please enter your phone number to log in Ecobi.",
+      "Enter your phone number",
+      "Continue"
+    ]
+  },
+  {
+    "id": "1827:32913",
+    "name": "Login / Enter password",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 4158,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113247",
+    "childCount": 5,
+    "texts": [
+      "Enter your  password",
+      "Please enter your password to log in Ecobi.",
+      "Enter your password",
+      "Or",
+      "By logging in, you agree to our",
+      "Terms of Service",
+      "&",
+      "Privacy Policy",
+      "Continue"
+    ]
+  },
+  {
+    "id": "1827:33668",
+    "name": "Login / Enter Password - Focus",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 4668,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113247",
+    "childCount": 4,
+    "texts": [
+      "Continue",
+      "Enter your password",
+      "Please enter your password to log in Ecobi.",
+      "Enter your password",
+      "return",
+      "space",
+      "123",
+      "M",
+      "N",
+      "B",
+      "V",
+      "C",
+      "X",
+      "Z",
+      "L",
+      "K",
+      "J",
+      "H",
+      "G",
+      "F",
+      "D",
+      "S",
+      "A",
+      "P",
+      "O",
+      "I",
+      "U",
+      "Y",
+      "T",
+      "R",
+      "E",
+      "W",
+      "Q"
+    ]
+  },
+  {
+    "id": "1559:17158",
+    "name": "Sign In / Welcome",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 3138,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113247",
+    "childCount": 2,
+    "texts": [
+      "Get your groceries\nReady for pickup items",
+      "Get Started!"
+    ]
+  },
+  {
+    "id": "1827:33681",
+    "name": "Sign Up / Welcome",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 6048,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113893",
+    "childCount": 4,
+    "texts": [
+      "Welcome",
+      "Enter your phone number",
+      "Or",
+      "Continue with Google",
+      "Continue with Apple",
+      "Continue with Facebook",
+      "By continuing, you agree to our",
+      "Terms of Service",
+      "&",
+      "Privacy Policy",
+      "Already have an account?",
+      "Log in"
+    ]
+  },
+  {
+    "id": "1827:33698",
+    "name": "Sign up / Enter Number",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 6583,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113893",
+    "childCount": 5,
+    "texts": [
+      "Continue",
+      "Enter your phone number",
+      "Please enter your phone number to using Ecobi.",
+      "+84",
+      "(000) 000 00",
+      "By signing up, you agree to",
+      "Terms of Service &",
+      "Privacy Policy ",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "0"
+    ]
+  },
+  {
+    "id": "1827:33724",
+    "name": "Sign up / Enter Email",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 7653,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113893",
+    "childCount": 4,
+    "texts": [
+      "What’s your email address",
+      "Receipts will be sent to your email.",
+      "Enter your email",
+      "Continue",
+      "return",
+      "space",
+      "123",
+      "M",
+      "N",
+      "B",
+      "V",
+      "C",
+      "X",
+      "Z",
+      "L",
+      "K",
+      "J",
+      "H",
+      "G",
+      "F",
+      "D",
+      "S",
+      "A",
+      "P",
+      "O",
+      "I",
+      "U",
+      "Y",
+      "T",
+      "R",
+      "E",
+      "W",
+      "Q"
+    ]
+  },
+  {
+    "id": "1827:33737",
+    "name": "Sign up / Enter Email - Typing",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 8188,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113893",
+    "childCount": 4,
+    "texts": [
+      "Continue",
+      "What’s your email address",
+      "Receipts will be sent to your email.",
+      "Hello@Pitstudio.co",
+      "return",
+      "space",
+      "123",
+      "M",
+      "N",
+      "B",
+      "V",
+      "C",
+      "X",
+      "Z",
+      "L",
+      "K",
+      "J",
+      "H",
+      "G",
+      "F",
+      "D",
+      "S",
+      "A",
+      "P",
+      "O",
+      "I",
+      "U",
+      "Y",
+      "T",
+      "R",
+      "E",
+      "W",
+      "Q"
+    ]
+  },
+  {
+    "id": "1827:33750",
+    "name": "Sign up / Create Password",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 8723,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113893",
+    "childCount": 4,
+    "texts": [
+      "Create your password",
+      "Your password must be at least 8 characters long, and contains at least one letter and one digit.",
+      "Enter your password ",
+      "Continue",
+      "return",
+      "space",
+      "123",
+      "M",
+      "N",
+      "B",
+      "V",
+      "C",
+      "X",
+      "Z",
+      "L",
+      "K",
+      "J",
+      "H",
+      "G",
+      "F",
+      "D",
+      "S",
+      "A",
+      "P",
+      "O",
+      "I",
+      "U",
+      "Y",
+      "T",
+      "R",
+      "E",
+      "W",
+      "Q"
+    ]
+  },
+  {
+    "id": "1827:33711",
+    "name": "Sign up / Verify code",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 7118,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113893",
+    "childCount": 4,
+    "texts": [
+      "Continue",
+      "Verification code OTP",
+      "A verification codes has been sent to",
+      "(+84) 969266825",
+      "9",
+      "_",
+      " ",
+      " ",
+      "00:29",
+      "Resend",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "0"
+    ]
+  },
+  {
+    "id": "2203:96517",
+    "name": "Sign In / Welcome",
+    "type": "INSTANCE",
+    "bounds": {
+      "x": 5513,
+      "y": -1826,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:113893",
+    "childCount": 2,
+    "texts": [
+      "Get your groceries\nReady for pickup items",
+      "Get Started!"
+    ]
+  },
+  {
+    "id": "1542:21788",
+    "name": "Home_Final",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 210,
+      "y": -7,
+      "width": 375,
+      "height": 1173
+    },
+    "parentId": "1970:114704",
+    "childCount": 5,
+    "texts": [
+      "Today’s Special",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Dalat Corn",
+      "$29",
+      "$39",
+      "Salmon Fillet",
+      "$59",
+      "$89",
+      "Avocado",
+      "$40",
+      "$45",
+      "Shopping with more deals",
+      "Hi, Nguyen",
+      "Meat",
+      "Fruit",
+      "Vegetable",
+      "Seafood",
+      "Bread",
+      "Home"
+    ]
+  },
+  {
+    "id": "1559:15704",
+    "name": "Product Detail",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 1034,
+      "y": 84,
+      "width": 375,
+      "height": 992
+    },
+    "parentId": "1970:116037",
+    "childCount": 4,
+    "texts": [
+      "Salmon fillet",
+      "$80",
+      "$79",
+      "Product details",
+      "Brand",
+      "Picovina Food",
+      "Categories",
+      "Seafood",
+      "Net weight",
+      "300g",
+      "Also buy with",
+      "Steak's Spicies",
+      "$5",
+      "Avocado",
+      "$14",
+      "Steak's Spicies",
+      "$5",
+      "Detail",
+      "Reviews",
+      "Add to Cart"
+    ]
+  },
+  {
+    "id": "1861:43865",
+    "name": "Product Review",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 1522,
+      "y": 84,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:116037",
+    "childCount": 5,
+    "texts": [
+      "4.0",
+      "147 reviews",
+      "Jennie Doo",
+      "1 day ago",
+      "4.0",
+      "“Super Fresh!”",
+      "This salmon has the perfect fat ratio to make it simply buttery and delicious. The velvety texture is divine and the taste is nothing short of magical. ",
+      "Kim Catoo",
+      "3 day ago",
+      "5.0",
+      "“High Quality”",
+      "Used it for a few months now and i am truly happy. I had 1 problem and contacted the support team and this problem got their immediate attention.",
+      "Detail",
+      "Reviews"
+    ]
+  },
+  {
+    "id": "1614:37073",
+    "name": "Delete",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 4228,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:117416",
+    "childCount": 4,
+    "texts": [
+      "Sub Total",
+      "$256",
+      "Delivery Fee",
+      "$0",
+      "Total",
+      "$256",
+      "Check Out",
+      "My Cart",
+      "Booth Avocado",
+      "$",
+      "79",
+      "2",
+      "Dalat Corn",
+      "$",
+      "79",
+      "1",
+      "Beef Ribs",
+      "$",
+      "79",
+      "12"
+    ]
+  },
+  {
+    "id": "1700:24912",
+    "name": "My Cart",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 4738,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:117416",
+    "childCount": 4,
+    "texts": [
+      "Sub Total",
+      "$256",
+      "Delivery Fee",
+      "$0",
+      "Total",
+      "$256",
+      "Check Out",
+      "My Cart",
+      "Booth Avocado",
+      "$",
+      "79",
+      "2",
+      "Dalat Corn",
+      "$",
+      "79",
+      "1",
+      "Beef Ribs",
+      "$",
+      "79",
+      "12"
+    ]
+  },
+  {
+    "id": "1947:159116",
+    "name": "Popup Delete",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 5248,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:117416",
+    "childCount": 3,
+    "texts": [
+      "Sub Total",
+      "$256",
+      "Delivery Fee",
+      "$0",
+      "Total",
+      "$256",
+      "Check Out",
+      "My Cart",
+      "Booth Avocado",
+      "$",
+      "79",
+      "2",
+      "Dalat Corn",
+      "$",
+      "79",
+      "1",
+      "Beef Ribs",
+      "$",
+      "79",
+      "12",
+      "Delete Selection?",
+      "Are you sure you want to\ndelete your selection?",
+      "Delete",
+      "Cancel"
+    ]
+  },
+  {
+    "id": "1947:159145",
+    "name": "Empty Cart",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 5758,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:117416",
+    "childCount": 4,
+    "texts": [
+      "Your cart is empty!",
+      "Explore our products and find something for you.",
+      "Explore Product",
+      "My Cart"
+    ]
+  },
+  {
+    "id": "1559:19782",
+    "name": "Shipping",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 9189,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:118539",
+    "childCount": 4,
+    "texts": [
+      "Tracking",
+      "Peter Evans",
+      "4,9/5",
+      "Delivery to",
+      "Jump Street, New York, NY 10004",
+      "Estimated time",
+      "15 mins",
+      "Order Received"
+    ]
+  },
+  {
+    "id": "1559:19781",
+    "name": "Order Success",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 8679,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:118539",
+    "childCount": 3,
+    "texts": [
+      "Payment Success!",
+      "The order has been paid. Shipper will deliver to you soon",
+      "Track Order",
+      "Go to Home"
+    ]
+  },
+  {
+    "id": "1559:19772",
+    "name": "Place Order ",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 6639,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:118539",
+    "childCount": 3,
+    "texts": [
+      "Order",
+      "Place Order",
+      "Deliver to",
+      "Home",
+      "Jump Street, New York, NY 10004, USA",
+      "Add voucher",
+      "20% OFF",
+      "Salmon Fillet",
+      "Sub Total",
+      "$256",
+      "Delivery Fee",
+      "$0",
+      "Total",
+      "$256",
+      "3042"
+    ]
+  },
+  {
+    "id": "1627:21630",
+    "name": "Change Payment Method",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 8169,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:118539",
+    "childCount": 3,
+    "texts": [
+      "Payment",
+      "Confirm Payment",
+      "Mastercard",
+      "501",
+      "Apple Pay",
+      "222",
+      "Paypal",
+      "801",
+      "Add New Card"
+    ]
+  },
+  {
+    "id": "1627:21624",
+    "name": "Change Promotion",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 7659,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:118539",
+    "childCount": 4,
+    "texts": [
+      "Choose Voucher",
+      "freeship, 10% off,...",
+      "Confirm",
+      "20% OFF",
+      "For order with Salmon Fillet",
+      "20% OFF",
+      "For order with Avocado",
+      "15% OFF",
+      "For order with Cafe Arabica"
+    ]
+  },
+  {
+    "id": "1627:21629",
+    "name": "Change Address",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 7149,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:118539",
+    "childCount": 3,
+    "texts": [
+      "Address",
+      "Home",
+      "Jump Street, NY 10004, New York, USA",
+      "+12 435 687 999",
+      "Work",
+      "Wall Street, NY 10004, New York, USA",
+      "+12 435 467 888",
+      "Lily's house",
+      "Wall Street, NY 10004, New York, USA",
+      "+12 435 999 888",
+      "Add New Addres",
+      "Confirm Address"
+    ]
+  },
+  {
+    "id": "1614:17733",
+    "name": "My Vouchers",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 9108,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2205:14159",
+    "childCount": 4,
+    "texts": [
+      "20% OFF",
+      "Salmon fillet",
+      "Date. 22 Sep ",
+      "15% OFF",
+      "Cafe Ara",
+      "Date. 12 Nov",
+      "20% OFF",
+      "Avocado",
+      "Date. 10 Oct",
+      "My voucher",
+      "Explore",
+      "Voucher",
+      "My Vouchers"
+    ]
+  },
+  {
+    "id": "1819:43838",
+    "name": "My Voucher / Details",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 9643,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2205:14159",
+    "childCount": 6,
+    "texts": [
+      "20% OFF",
+      "Salmon fillet",
+      "Date. 22 Sep ",
+      "15% OFF",
+      "Cafe Ara",
+      "Date. 12 Nov",
+      "20% OFF",
+      "Avocado",
+      "Date. 10 Oct",
+      "My voucher",
+      "Explore",
+      "Voucher",
+      "My Vouchers",
+      "15% OFF",
+      "Cafe Ara",
+      "Expire date",
+      "12 Dec",
+      "Payment method",
+      "Cash",
+      "Voucher is valid for 15% off for orders with Cafe Arabica.\n\nVoucher can only be used once per day and can be used again the next day.\n\nVoucher cannot be selected at the same time as another voucher.",
+      "Use Voucher"
+    ]
+  },
+  {
+    "id": "1569:15304",
+    "name": "Search",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 6599,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:119462",
+    "childCount": 3,
+    "texts": [
+      "Fruit, meat,...",
+      "Recent Search",
+      "Orange",
+      "Beef",
+      "Chicken",
+      "Diet cupcake",
+      "Flower",
+      "Soda",
+      "Popular Results",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Salmon Fillet",
+      "$79",
+      "$99",
+      "Explore",
+      "Explore"
+    ]
+  },
+  {
+    "id": "1861:50095",
+    "name": "Search / Filter Added",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 8204,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:119462",
+    "childCount": 1,
+    "texts": [
+      "Fresh Product",
+      "Coffee",
+      "$79",
+      "$99",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Salmon Fillet",
+      "$79",
+      "$99",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Explore",
+      "Explore"
+    ]
+  },
+  {
+    "id": "1861:50069",
+    "name": "Search / Search Result",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 7134,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:119462",
+    "childCount": 3,
+    "texts": [
+      "Fresh Product",
+      "Coffee",
+      "$79",
+      "$99",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Salmon Fillet",
+      "$79",
+      "$99",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Explore",
+      "Explore"
+    ]
+  },
+  {
+    "id": "1861:50074",
+    "name": "Search / Filter",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 7669,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:119462",
+    "childCount": 6,
+    "texts": [
+      "Fresh Produce",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Beef Ribs",
+      "$79",
+      "$99",
+      "Explore",
+      "Explore",
+      "Place of sale",
+      "New York",
+      "Boston",
+      "Washington",
+      "Las Vegas",
+      "Show price with fees",
+      "Support promo codes",
+      "Accessible",
+      "Price Range",
+      "0$",
+      "999$",
+      "100$",
+      "500$",
+      "Reset",
+      "Apply"
+    ]
+  },
+  {
+    "id": "1615:46255",
+    "name": "Ask for permissions",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 2346,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:121739",
+    "childCount": 3,
+    "texts": [
+      "Camera permissions",
+      "The barcode scaning feature\nrequires camera permissions",
+      "Accept",
+      "Cancel"
+    ]
+  },
+  {
+    "id": "1614:22199",
+    "name": "Scan",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 2839,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:121739",
+    "childCount": 4,
+    "texts": [
+      "Salmon fillet",
+      "$79/1 pieces",
+      "Detecting..."
+    ]
+  },
+  {
+    "id": "2224:8167",
+    "name": "Scan",
+    "type": "INSTANCE",
+    "bounds": {
+      "x": 3332,
+      "y": 174,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:121739",
+    "childCount": 4,
+    "texts": [
+      "Carrot Ecobi",
+      "$2/1 kilogram",
+      "Detecting..."
+    ]
+  },
+  {
+    "id": "1861:52794",
+    "name": "Info Edit",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 745,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:123070",
+    "childCount": 3,
+    "texts": [
+      "Personal Info",
+      "Peter Evans",
+      "Gold ",
+      "Full name",
+      "Peter Evans",
+      "Email",
+      "peter@pitstudio.co",
+      "Phone number",
+      "+84",
+      "123 456 78",
+      "Save"
+    ]
+  },
+  {
+    "id": "2260:12941",
+    "name": "Info Edit",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 1280,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "1970:123070",
+    "childCount": 2,
+    "texts": [
+      "Personal Info",
+      "Peter Evans",
+      "Gold ",
+      "Full name",
+      "Peter Evan",
+      "Email",
+      "peter@pitstudio.co",
+      "Phone number",
+      "+84",
+      "123 456 78",
+      "Save",
+      "return",
+      "space",
+      "123",
+      "M",
+      "N",
+      "B",
+      "V",
+      "C",
+      "X",
+      "Z",
+      "L",
+      "K",
+      "J",
+      "H",
+      "G",
+      "F",
+      "D",
+      "S",
+      "A",
+      "P",
+      "O",
+      "I",
+      "U",
+      "Y",
+      "T",
+      "R",
+      "E",
+      "W",
+      "Q"
+    ]
+  },
+  {
+    "id": "1861:52101",
+    "name": "Profile",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 210,
+      "y": 2173,
+      "width": 375,
+      "height": 848
+    },
+    "parentId": "1970:123070",
+    "childCount": 5,
+    "texts": [
+      "Peter Evans",
+      "Gold ",
+      "Personal Info",
+      "Payment Method",
+      "Order History",
+      "Savings",
+      "Vouchers",
+      "Referral",
+      "About Ecobi",
+      "Profile"
+    ]
+  },
+  {
+    "id": "1966:151163",
+    "name": "Order History",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 2133,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2205:14157",
+    "childCount": 3,
+    "texts": [
+      "Order History",
+      "Ongoing",
+      "History",
+      "Completed",
+      "#HNBJKM09",
+      "Salmon fillet",
+      "Picovina Food",
+      "$79",
+      "Rate",
+      "Re-order",
+      "Cancel",
+      "#HNMSJD871",
+      "Dalat Corn",
+      "Pieco Farm",
+      "$25",
+      "Rate",
+      "Re-order",
+      "Completed",
+      "#HNBJKM09"
+    ]
+  },
+  {
+    "id": "1861:54737",
+    "name": "Saving",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 2930,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2205:17749",
+    "childCount": 2,
+    "texts": [
+      "Saved",
+      "Pieco Farm",
+      "Hanoi, Vietnam",
+      "Top Picks",
+      "MS’s Market",
+      "Hanoi, Vietnam",
+      "Top Picks",
+      "Fruit Market",
+      "Hanoi, Vietnam",
+      "Hot Deals",
+      "Sprout's Market",
+      "Hanoi, Vietnam",
+      "Fast Delivery",
+      "FoodsEco",
+      "Hanoi, Vietnam",
+      "Fast Delivery"
+    ]
+  },
+  {
+    "id": "2205:14160",
+    "name": "Saving",
+    "type": "INSTANCE",
+    "bounds": {
+      "x": 3391,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2205:17749",
+    "childCount": 2,
+    "texts": [
+      "Saved",
+      "Pieco Farm",
+      "Hanoi, Vietnam",
+      "Top Picks",
+      "MS’s Market",
+      "Hanoi, Vietnam",
+      "Top Picks",
+      "Fruit Market",
+      "Hanoi, Vietnam",
+      "Hot Deals",
+      "Sprout's Market",
+      "Hanoi, Vietnam",
+      "Fast Delivery",
+      "FoodsEco",
+      "Hanoi, Vietnam",
+      "Fast Delivery"
+    ]
+  },
+  {
+    "id": "2109:120737",
+    "name": "Add Card",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 4717,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2212:7180",
+    "childCount": 4,
+    "texts": [
+      "Add new card",
+      "Peter Evans",
+      "Enter your card number",
+      "MM/YY",
+      "CVV",
+      "Add Card",
+      "----",
+      "----",
+      "----",
+      "----",
+      "Peter Evans",
+      "--/--"
+    ]
+  },
+  {
+    "id": "2109:120762",
+    "name": "Add Card Scroll",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 5227,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2212:7180",
+    "childCount": 4,
+    "texts": [
+      "2832",
+      "0192",
+      "1312",
+      "3---",
+      "Peter Evans",
+      "--/--",
+      "Add new card",
+      "Peter Evans",
+      "2832 - 0192 - 1312 - 3",
+      "MM/YY",
+      "CVV",
+      "return",
+      "space",
+      "123",
+      "M",
+      "N",
+      "B",
+      "V",
+      "C",
+      "X",
+      "Z",
+      "L",
+      "K",
+      "J",
+      "H",
+      "G",
+      "F",
+      "D",
+      "S",
+      "A",
+      "P",
+      "O",
+      "I",
+      "U",
+      "Y",
+      "T",
+      "R",
+      "E",
+      "W",
+      "Q"
+    ]
+  },
+  {
+    "id": "2109:120713",
+    "name": "Payment Method",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 4207,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2212:7180",
+    "childCount": 4,
+    "texts": [
+      "Payment Methods",
+      "Default Payment",
+      "****",
+      "****",
+      "****",
+      "3042",
+      "Peter Evans",
+      "02/30",
+      "Another Payment",
+      "3042",
+      "Connect your Apple Pay",
+      "Add new card"
+    ]
+  },
+  {
+    "id": "2109:120787",
+    "name": "Empty Card",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 5737,
+      "y": 2173,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "2212:7180",
+    "childCount": 4,
+    "texts": [
+      "Empty Card!",
+      "Add your payment method to enjoy our services",
+      "Add new card"
+    ]
+  },
+  {
+    "id": "1861:54846",
+    "name": "Referral",
+    "type": "COMPONENT",
+    "bounds": {
+      "x": 9884,
+      "y": 2165,
+      "width": 375,
+      "height": 857
+    },
+    "parentId": "2212:7181",
+    "childCount": 3,
+    "texts": [
+      "Referral",
+      "Refer & Earn",
+      "Share this code with your friend and\nyou both get $10",
+      "ECOBI22",
+      "Copy",
+      "OR SEND INVITE",
+      "Ryan Boo",
+      "0123 456 789",
+      "Invite",
+      "Koo Moo",
+      "0123 456 789",
+      "Invite",
+      "Taa Daa",
+      "0123 456 789",
+      "Invited"
+    ]
+  }
+]

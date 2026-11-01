@@ -1,0 +1,345 @@
+[
+  {
+    "designNode": "1633:23663",
+    "designName": "Splash / 2",
+    "route": "splash-green",
+    "screenshot": "screenshots/splash-green.png",
+    "reference": "reference/1633_23663.png"
+  },
+  {
+    "designNode": "1827:32328",
+    "designName": "Splash / 1",
+    "route": "splash-light",
+    "screenshot": "screenshots/splash-light.png",
+    "reference": "reference/1827_32328.png"
+  },
+  {
+    "designNode": "1827:32300",
+    "designName": "Onboarding / 01",
+    "route": "onboarding-1",
+    "screenshot": "screenshots/onboarding-1.png",
+    "reference": "reference/1827_32300.png"
+  },
+  {
+    "designNode": "1827:32309",
+    "designName": "Onboarding / 02",
+    "route": "onboarding-2",
+    "screenshot": "screenshots/onboarding-2.png",
+    "reference": "reference/1827_32309.png"
+  },
+  {
+    "designNode": "1827:32318",
+    "designName": "Onboarding / 03",
+    "route": "onboarding-3",
+    "screenshot": "screenshots/onboarding-3.png",
+    "reference": "reference/1827_32318.png"
+  },
+  {
+    "designNode": "1827:32689",
+    "designName": "Login /Enter phone number",
+    "route": "login-phone",
+    "screenshot": "screenshots/login-phone.png",
+    "reference": "reference/1827_32689.png"
+  },
+  {
+    "designNode": "1827:32913",
+    "designName": "Login / Enter password",
+    "route": "login-password",
+    "screenshot": "screenshots/login-password.png",
+    "reference": "reference/1827_32913.png"
+  },
+  {
+    "designNode": "1827:33668",
+    "designName": "Login / Enter Password - Focus",
+    "route": "login-password-focus",
+    "screenshot": "screenshots/login-password-focus.png",
+    "reference": "reference/1827_33668.png"
+  },
+  {
+    "designNode": "1559:17158",
+    "designName": "Sign In / Welcome",
+    "route": "welcome",
+    "screenshot": "screenshots/welcome.png",
+    "reference": "reference/1559_17158.png"
+  },
+  {
+    "designNode": "1827:33681",
+    "designName": "Sign Up / Welcome",
+    "route": "signup-welcome",
+    "screenshot": "screenshots/signup-welcome.png",
+    "reference": "reference/1827_33681.png"
+  },
+  {
+    "designNode": "1827:33698",
+    "designName": "Sign up / Enter Number",
+    "route": "signup-phone",
+    "screenshot": "screenshots/signup-phone.png",
+    "reference": "reference/1827_33698.png"
+  },
+  {
+    "designNode": "1827:33724",
+    "designName": "Sign up / Enter Email",
+    "route": "email",
+    "screenshot": "screenshots/email.png",
+    "reference": "reference/1827_33724.png"
+  },
+  {
+    "designNode": "1827:33737",
+    "designName": "Sign up / Enter Email - Typing",
+    "route": "email-typing",
+    "screenshot": "screenshots/email-typing.png",
+    "reference": "reference/1827_33737.png"
+  },
+  {
+    "designNode": "1827:33750",
+    "designName": "Sign up / Create Password",
+    "route": "create-password",
+    "screenshot": "screenshots/create-password.png",
+    "reference": "reference/1827_33750.png"
+  },
+  {
+    "designNode": "1827:33711",
+    "designName": "Sign up / Verify code",
+    "route": "verify",
+    "screenshot": "screenshots/verify.png",
+    "reference": "reference/1827_33711.png"
+  },
+  {
+    "designNode": "2203:96517",
+    "designName": "Sign In / Welcome",
+    "route": "welcome",
+    "screenshot": "screenshots/welcome.png",
+    "reference": "reference/2203_96517.png"
+  },
+  {
+    "designNode": "1542:21788",
+    "designName": "Home_Final",
+    "route": "home",
+    "screenshot": "screenshots/home.png",
+    "reference": "reference/1542_21788.png"
+  },
+  {
+    "designNode": "1559:15704",
+    "designName": "Product Detail",
+    "route": "product",
+    "screenshot": "screenshots/product.png",
+    "reference": "reference/1559_15704.png"
+  },
+  {
+    "designNode": "1861:43865",
+    "designName": "Product Review",
+    "route": "reviews",
+    "screenshot": "screenshots/reviews.png",
+    "reference": "reference/1861_43865.png"
+  },
+  {
+    "designNode": "1614:37073",
+    "designName": "Delete",
+    "route": "cart-delete",
+    "screenshot": "screenshots/cart-delete.png",
+    "reference": "reference/1614_37073.png"
+  },
+  {
+    "designNode": "1700:24912",
+    "designName": "My Cart",
+    "route": "cart",
+    "screenshot": "screenshots/cart.png",
+    "reference": "reference/1700_24912.png"
+  },
+  {
+    "designNode": "1947:159116",
+    "designName": "Popup Delete",
+    "route": "cart-dialog",
+    "screenshot": "screenshots/cart-dialog.png",
+    "reference": "reference/1947_159116.png"
+  },
+  {
+    "designNode": "1947:159145",
+    "designName": "Empty Cart",
+    "route": "empty-cart",
+    "screenshot": "screenshots/empty-cart.png",
+    "reference": "reference/1947_159145.png"
+  },
+  {
+    "designNode": "1559:19782",
+    "designName": "Shipping",
+    "route": "tracking",
+    "screenshot": "screenshots/tracking.png",
+    "reference": "reference/1559_19782.png"
+  },
+  {
+    "designNode": "1559:19781",
+    "designName": "Order Success",
+    "route": "success",
+    "screenshot": "screenshots/success.png",
+    "reference": "reference/1559_19781.png"
+  },
+  {
+    "designNode": "1559:19772",
+    "designName": "Place Order ",
+    "route": "checkout",
+    "screenshot": "screenshots/checkout.png",
+    "reference": "reference/1559_19772.png"
+  },
+  {
+    "designNode": "1627:21630",
+    "designName": "Change Payment Method",
+    "route": "payment-select",
+    "screenshot": "screenshots/payment-select.png",
+    "reference": "reference/1627_21630.png"
+  },
+  {
+    "designNode": "1627:21624",
+    "designName": "Change Promotion",
+    "route": "promotions",
+    "screenshot": "screenshots/promotions.png",
+    "reference": "reference/1627_21624.png"
+  },
+  {
+    "designNode": "1627:21629",
+    "designName": "Change Address",
+    "route": "addresses",
+    "screenshot": "screenshots/addresses.png",
+    "reference": "reference/1627_21629.png"
+  },
+  {
+    "designNode": "1614:17733",
+    "designName": "My Vouchers",
+    "route": "vouchers",
+    "screenshot": "screenshots/vouchers.png",
+    "reference": "reference/1614_17733.png"
+  },
+  {
+    "designNode": "1819:43838",
+    "designName": "My Voucher / Details",
+    "route": "voucher-detail",
+    "screenshot": "screenshots/voucher-detail.png",
+    "reference": "reference/1819_43838.png"
+  },
+  {
+    "designNode": "1569:15304",
+    "designName": "Search",
+    "route": "search",
+    "screenshot": "screenshots/search.png",
+    "reference": "reference/1569_15304.png"
+  },
+  {
+    "designNode": "1861:50095",
+    "designName": "Search / Filter Added",
+    "route": "filtered",
+    "screenshot": "screenshots/filtered.png",
+    "reference": "reference/1861_50095.png"
+  },
+  {
+    "designNode": "1861:50069",
+    "designName": "Search / Search Result",
+    "route": "results",
+    "screenshot": "screenshots/results.png",
+    "reference": "reference/1861_50069.png"
+  },
+  {
+    "designNode": "1861:50074",
+    "designName": "Search / Filter",
+    "route": "filter",
+    "screenshot": "screenshots/filter.png",
+    "reference": "reference/1861_50074.png"
+  },
+  {
+    "designNode": "1615:46255",
+    "designName": "Ask for permissions",
+    "route": "scan-permission",
+    "screenshot": "screenshots/scan-permission.png",
+    "reference": "reference/1615_46255.png"
+  },
+  {
+    "designNode": "1614:22199",
+    "designName": "Scan",
+    "route": "scan",
+    "screenshot": "screenshots/scan.png",
+    "reference": "reference/1614_22199.png"
+  },
+  {
+    "designNode": "2224:8167",
+    "designName": "Scan",
+    "route": "scan-carrot",
+    "screenshot": "screenshots/scan-carrot.png",
+    "reference": "reference/2224_8167.png"
+  },
+  {
+    "designNode": "1861:52794",
+    "designName": "Info Edit",
+    "route": "personal-info",
+    "screenshot": "screenshots/personal-info.png",
+    "reference": "reference/1861_52794.png"
+  },
+  {
+    "designNode": "2260:12941",
+    "designName": "Info Edit",
+    "route": "personal-info-edit",
+    "screenshot": "screenshots/personal-info-edit.png",
+    "reference": "reference/2260_12941.png"
+  },
+  {
+    "designNode": "1861:52101",
+    "designName": "Profile",
+    "route": "profile",
+    "screenshot": "screenshots/profile.png",
+    "reference": "reference/1861_52101.png"
+  },
+  {
+    "designNode": "1966:151163",
+    "designName": "Order History",
+    "route": "orders",
+    "screenshot": "screenshots/orders.png",
+    "reference": "reference/1966_151163.png"
+  },
+  {
+    "designNode": "1861:54737",
+    "designName": "Saving",
+    "route": "saved",
+    "screenshot": "screenshots/saved.png",
+    "reference": "reference/1861_54737.png"
+  },
+  {
+    "designNode": "2205:14160",
+    "designName": "Saving",
+    "route": "saved-menu",
+    "screenshot": "screenshots/saved-menu.png",
+    "reference": "reference/2205_14160.png"
+  },
+  {
+    "designNode": "2109:120737",
+    "designName": "Add Card",
+    "route": "add-card",
+    "screenshot": "screenshots/add-card.png",
+    "reference": "reference/2109_120737.png"
+  },
+  {
+    "designNode": "2109:120762",
+    "designName": "Add Card Scroll",
+    "route": "add-card-edit",
+    "screenshot": "screenshots/add-card-edit.png",
+    "reference": "reference/2109_120762.png"
+  },
+  {
+    "designNode": "2109:120713",
+    "designName": "Payment Method",
+    "route": "payment",
+    "screenshot": "screenshots/payment.png",
+    "reference": "reference/2109_120713.png"
+  },
+  {
+    "designNode": "2109:120787",
+    "designName": "Empty Card",
+    "route": "empty-card",
+    "screenshot": "screenshots/empty-card.png",
+    "reference": "reference/2109_120787.png"
+  },
+  {
+    "designNode": "1861:54846",
+    "designName": "Referral",
+    "route": "referral",
+    "screenshot": "screenshots/referral.png",
+    "reference": "reference/1861_54846.png"
+  }
+]
